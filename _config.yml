@@ -18,10 +18,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "justBLOG"
 title_separator          : "-"
-subtitle                 : "justCODER의 개발 기록"# site tagline that appears below site title in masthead
+subtitle                 : "justCODER의 개발 기록" # site tagline that appears below site title in masthead
 name                     : "justCODER"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Live in ownership."
+url                      : "https://justJIMIN.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "강지민(JIMIN KANG)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Anyway nobody visit"
+  location         : "SOUTH_KOREA"
+  email            : "Not yet"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
